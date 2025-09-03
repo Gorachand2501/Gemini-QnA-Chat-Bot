@@ -38,7 +38,7 @@ Provide an **interactive chatbot experience** where users can ask questions and 
 
 ### Step 1: Clone the Repository & Install Dependencies
 ```bash
-git clone <repository-url>
+git clone <https://github.com/Gorachand2501/Gemini-QnA-Chat-Bot.git>
 cd gemini-chatbot
 pip install -r requirements.txt
 ```
@@ -63,6 +63,9 @@ streamlit run app.py
 ├── requirements.txt   # Python dependencies
 └── .env               # Environment variables (Google API Key)
 ```
+
+![App Screenshot](Images/Chatbot1.png)
+![App Screenshot](Images/Chatbot2.png)
 
 ## ⚠️ Disclaimer
 
